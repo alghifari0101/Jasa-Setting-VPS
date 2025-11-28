@@ -1,7 +1,5 @@
 # VPS Setup & Configuration Service – NetBits ID
 
-## Introduction
-
 NetBits ID provides a professional **VPS setup service** to help you configure and optimize your server so it’s secure, fast, and ready for production. This service is perfect for business owners, developers, and anyone who needs a stable and high‑performance server without dealing with complex technical tasks.
 
 ---
